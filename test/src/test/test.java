@@ -217,4 +217,8 @@ public class test {
 	}
 	
 }
+<<<<<<< HEAD
 //B1 change
+=======
+//B1 change
+>>>>>>> C4
