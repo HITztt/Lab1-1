@@ -218,7 +218,11 @@ public class test {
 	
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 //B1 change
 =======
 //B1 change
 >>>>>>> C4
+=======
+
+>>>>>>> B2
